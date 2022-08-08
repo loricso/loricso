@@ -1,5 +1,5 @@
 # Hi, i'm Lorix
-- 💻 Software engeneer
+- 💻 Software engineer
 - 🔵 Python Developer
 - 🟡 JavaScript Developer
 - ⚛ React.js intermediate knowledge
