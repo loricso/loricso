@@ -1,5 +1,5 @@
 # Hi, i'm Lorix
 
 - 🍕 Italian Dev
-- 🌀 TypeScript Lover
+- 🌀 Currently on TypeScript
 - 🌄 Nuxt Dev
